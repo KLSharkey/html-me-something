@@ -1,0 +1,43 @@
+body {
+    background-image: url("images/congruent_pentagon.png")
+    
+}
+
+#top {
+    background-color: lemonchiffon;
+}
+
+#top > p{
+    margin-left: 250px;
+}
+
+h1, h2 {
+    text-align: center;
+    font-size:40px;
+    font-family: Oswald, Serif;
+}
+table {
+    align: center;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+p {
+    font-size: 20px;
+    font-family: Tiffany, cursive;
+}
+
+padded_cell {
+    margin-left: 2px;
+}
+
+img {
+    height: 300px;
+    width: 270px;
+    display: block;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+}
